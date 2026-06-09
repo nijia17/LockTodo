@@ -57,9 +57,9 @@
 
 ## 📷 截图
 
-| 主界面 | 桌面小组件 |
-|--------|-----------|
-| ![Main Screen](https://via.placeholder.com/300x600) | ![Widget](https://via.placeholder.com/300x200) |
+| APP主界面 | 桌面小组件 |
+|-----------|-----------|
+| ![APP主界面](screenshots/main_screen.png) | ![桌面小组件](screenshots/widget.png) |
 
 ## 📄 许可证
 
