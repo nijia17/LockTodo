@@ -28,7 +28,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/nijia17/QuickTodo.git
+git clone https://github.com/nijia17/LockTodo.git
 
 # 使用 Android Studio 打开项目
 # 构建并运行到设备或模拟器
@@ -54,10 +54,10 @@ git clone https://github.com/nijia17/QuickTodo.git
 ## 📷 界面展示
 
 ### 桌面小组件
-![桌面小组件](https://raw.githubusercontent.com/nijia17/QuickTodo/main/screenshots/widget.png)
+![桌面小组件](https://raw.githubusercontent.com/nijia17/LockTodo/main/screenshots/widget.png)
 
 ### APP主界面
-![APP主界面](https://raw.githubusercontent.com/nijia17/QuickTodo/main/screenshots/app.png)
+![APP主界面](https://raw.githubusercontent.com/nijia17/LockTodo/main/screenshots/app.png)
 
 ## 📄 许可证
 
